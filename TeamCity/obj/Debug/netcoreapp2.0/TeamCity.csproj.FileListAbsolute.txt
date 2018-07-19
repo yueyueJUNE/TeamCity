@@ -1,0 +1,11 @@
+/Users/liuyue/Projects/TeamCity/TeamCity/bin/Debug/netcoreapp2.0/TeamCity.deps.json
+/Users/liuyue/Projects/TeamCity/TeamCity/bin/Debug/netcoreapp2.0/TeamCity.runtimeconfig.json
+/Users/liuyue/Projects/TeamCity/TeamCity/bin/Debug/netcoreapp2.0/TeamCity.runtimeconfig.dev.json
+/Users/liuyue/Projects/TeamCity/TeamCity/bin/Debug/netcoreapp2.0/TeamCity.dll
+/Users/liuyue/Projects/TeamCity/TeamCity/bin/Debug/netcoreapp2.0/TeamCity.pdb
+/Users/liuyue/Projects/TeamCity/TeamCity/obj/Debug/netcoreapp2.0/TeamCity.csprojResolveAssemblyReference.cache
+/Users/liuyue/Projects/TeamCity/TeamCity/obj/Debug/netcoreapp2.0/TeamCity.csproj.CoreCompileInputs.cache
+/Users/liuyue/Projects/TeamCity/TeamCity/obj/Debug/netcoreapp2.0/TeamCity.AssemblyInfoInputs.cache
+/Users/liuyue/Projects/TeamCity/TeamCity/obj/Debug/netcoreapp2.0/TeamCity.AssemblyInfo.cs
+/Users/liuyue/Projects/TeamCity/TeamCity/obj/Debug/netcoreapp2.0/TeamCity.dll
+/Users/liuyue/Projects/TeamCity/TeamCity/obj/Debug/netcoreapp2.0/TeamCity.pdb

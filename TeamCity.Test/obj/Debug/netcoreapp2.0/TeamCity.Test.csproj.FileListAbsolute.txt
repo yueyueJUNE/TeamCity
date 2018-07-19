@@ -1,0 +1,16 @@
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.Test.deps.json
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.Test.runtimeconfig.json
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.Test.runtimeconfig.dev.json
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.Test.dll
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.Test.pdb
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/obj/Debug/netcoreapp2.0/TeamCity.Test.csprojResolveAssemblyReference.cache
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/obj/Debug/netcoreapp2.0/TeamCity.Test.csproj.CoreCompileInputs.cache
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/obj/Debug/netcoreapp2.0/TeamCity.Test.AssemblyInfoInputs.cache
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/obj/Debug/netcoreapp2.0/TeamCity.Test.AssemblyInfo.cs
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/obj/Debug/netcoreapp2.0/TeamCity.Test.dll
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/obj/Debug/netcoreapp2.0/TeamCity.Test.pdb
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.dll
+/Users/liuyue/Projects/TeamCity/TeamCity.Test/bin/Debug/netcoreapp2.0/TeamCity.pdb

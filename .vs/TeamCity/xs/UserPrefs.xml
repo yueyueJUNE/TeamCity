@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0F8ED8F7-5831-49D4-BE36-F9CD88E55B54}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TeamCity.Test/UnitTest1.cs">
+    <Files>
+      <File FileName="TeamCity.Test/UnitTest1.cs" Line="14" Column="23" />
+      <File FileName="TeamCity/Controllers/HomeController.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TeamCity PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
